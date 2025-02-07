@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Chinmay Duse 👋
 
-<!--
-**psyphon1/psyphon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Computer Science student** with strong skills in **programming**. I specialize in **Python, C++, and Java**, and have experience with **MySQL, MongoDB, and Azure**. Proven project leader and team collaborator, seeking a **Job or Internship** to apply my knowledge and grow professionally.
 
-Here are some ideas to get you started:
+## 💼 Education
+- **Bachelor of Engineering (B.E), Computer Engineering (7.55 GPA)**
+  - Sinhgad Institute of Technology and Science (SPPU) | 2022 – 2026 | Pune, Maharashtra
+- **HSC (XII), Science - 73.33%**
+  - Om Shanti High School Bhokardan, Jalna | 2021 – 2022
+- **SSC (X) - 94.20%**
+  - SB Highschool, Jalna | 2019 – 2020
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications
+- **Python 101 For Data Science** – IBM Cognitive Class AI
+- **Python** – Udemy (Jose Portela)
+- **Advanced C++ Certificate** – Spoken Tutorial
+- **Getting Started With Enterprise AI** – IBM
+
+## 🛠️ Tech Stack & Skills
+- **Programming Languages:** Python, C++, Java
+- **Databases:** MySQL, MongoDB
+- **Cloud Platforms:** Azure (Currently Learning)
+- **Other Skills:** Leadership, Team Collaboration, Problem-Solving, Communication, Adaptability, Time Management, Logical Thinking
+
+## 📌 Projects & Contributions
+🔹 [**Hospital Database Management**](https://github.com/psyphon1/SE-Project--Hospital_DB) (10/2023 – 12/2023)  
+🔹 **Tic Tac Toe (XOXO)** – Implemented using DSA concepts like Arrays (06/2024)  
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/chinmay-duse-142817301](https://linkedin.com/in/chinmay-duse-142817301)
+- GitHub: [github.com/psyphon1](https://github.com/psyphon1)
+- Email: [chinmayd14524@gmail.com](mailto:chinmayd14524@gmail.com)
+- Phone: [+91 9511830971](tel:+919511830971)
+
+## 📊 GitHub Stats
+![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyphon1&show_icons=true&theme=github_dark)
+
+Let's collaborate and build something amazing! 🚀
