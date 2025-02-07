@@ -7,7 +7,9 @@ I'm a passionate **Computer Science student** with strong skills in **programmin
 - **Bachelor of Engineering (B.E), Computer Engineering (7.55 GPA)**
   - Sinhgad Institute of Technology and Science (SPPU) | 2022 – 2026 | Pune, Maharashtra
 - **HSC (XII), Science - 73.33%**
+  - Om Shanti High School Bhokardan, Jalna | 2021 – 2022
 - **SSC (X) - 94.20%**
+  - SB Highschool, Jalna | 2019 – 2020
 
 ## 🏆 Certifications
 - **Python 101 For Data Science** – IBM Cognitive Class AI
@@ -34,7 +36,7 @@ I'm a passionate **Computer Science student** with strong skills in **programmin
 ![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyphon1&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psyphon1&layout=compact&theme=github_dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=psyphon1&color=blue)
-![GitHub Streak](https://streak-stats.demolab.com/?user=psyphon1&theme=github-dark)
+![GitHub Streak](https://github-readme-streaks.vercel.app/?user=psyphon1&theme=github-dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=psyphon1&theme=darkhub)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psyphon1&theme=github-dark&hide_border=true)
 
