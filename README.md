@@ -34,9 +34,9 @@ I'm a passionate **Computer Science student** with strong skills in **programmin
 ![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyphon1&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psyphon1&layout=compact&theme=github_dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=psyphon1&color=blue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psyphon1&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=psyphon1&theme=github-dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=psyphon1&theme=darkhub)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=psyphon1&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psyphon1&theme=github-dark&hide_border=true)
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/chinmay-duse-142817301](https://linkedin.com/in/chinmay-duse-142817301)
