@@ -29,7 +29,6 @@ I'm a passionate **Computer Science student** with strong skills in **programmin
 ![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyphon1&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psyphon1&layout=compact&theme=github_dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=psyphon1&color=blue)
-![GitHub Streak](https://streaks.dev/psyphon1?theme=github-dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=psyphon1&theme=darkhub)
 
 ## 📫 Connect with Me
