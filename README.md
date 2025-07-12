@@ -22,8 +22,9 @@ I'm a passionate **Computer Science student** with strong skills in **programmin
 - **Other Skills:** Leadership, Team Collaboration, Problem-Solving, Communication, Adaptability, Time Management, Logical Thinking
 
 ## 📌 Projects & Contributions
+🔹 [**Healthify (Deployed**](https://healthify-yzfn.onrender.com/) (Latest)
 🔹 [**Hospital Database Management**](https://github.com/psyphon1/SE-Project--Hospital_DB) (10/2023 – 12/2023)  
-🔹 **Tic Tac Toe (XOXO)** – Implemented using DSA concepts like Arrays (06/2024)  
+🔹 [**Tic Tac Toe (XOXO)**] – Implemented using DSA concepts like Arrays (06/2024)
 
 ## 📈 GitHub Showcases
 ![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyphon1&show_icons=true&theme=github_dark)
