@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Chinmay Duse
 
 ## 🚀 About Me
-Passionate **Computer Engineering student** with a strong foundation in **Python, C++, and Java**. Deeply into **Machine Learning & MLOps**, and sharpening my problem-solving skills daily with **DSA challenges on LeetCode and GeeksforGeeks**. Driven by learning and collaboration, I’m actively seeking **Job or Internship** opportunities to contribute and grow.
+Passionate **Computer Engineering student** with a strong foundation in **Python, and Java**. Deeply into **Machine Learning & MLOps**, and sharpening my problem-solving skills daily with **DSA challenges on LeetCode and GeeksforGeeks**. Driven by learning and collaboration, I’m actively seeking **Job or Internship** opportunities to contribute and grow.
 
 ---
 
 ## 🎓 Education
 - **Bachelor of Engineering (B.E.), Computer Engineering**  
   Sinhgad Institute of Technology and Science (SPPU) | Pune, Maharashtra  
-  *2022 – 2026* | GPA: **7.19 (till 6th semester)**
+  *2022 – 2026* | GPA: **7.21 (till 6th semester)**
 - **Higher Secondary Certificate (HSC), Science** – 73.33%  
 - **Secondary School Certificate (SSC)** – 94.20%
 
@@ -23,10 +23,11 @@ Passionate **Computer Engineering student** with a strong foundation in **Python
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** Python | C++ | Java  
-- **Databases:** MySQL | MongoDB  
+- **Languages:** Python | Java | Html | Css
+- **Databases:** MySQL | MongoDB
+- **Frameworks and Libraries:** Flask | Django | Numpy | Pandas | Scikit-learn | Matplotlib | Seaborn | Restful Api
 - **Cloud:** Azure (Learning)  
-- **Machine Learning & MLOps:** Model development, deployment, CI/CD  
+- **Machine Learning & MLOps:** Model development, deployment
 - **Problem Solving:** DSA (LeetCode & GeeksforGeeks)  
 - **Soft Skills:** Leadership | Teamwork | Communication | Adaptability | Time Management
 
